@@ -195,7 +195,7 @@ For Raspberry Pi setup workshop\
 
 ***THREE-Multiplayer***
 A boilerplate server and client setup for Three.js multiplayer using Socket.io.\
-<https://github.com/juniorxsound/THREE-Multiplayer> ⭐ 226 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-03
+<https://github.com/juniorxsound/THREE-Multiplayer> ⭐ 225 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-03
 
 ***oF-shader-boilerplate***\
 A boilerplate for openFrameworks with fragment shader.\
@@ -211,4 +211,4 @@ Webpack, Typescript, threejs, reactjs\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
