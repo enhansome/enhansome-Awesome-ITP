@@ -62,7 +62,7 @@ A plugin for using DepthKit's volumteric captures in Three.js.\
 
 ***DepthKit for A-Frame***\
 An A-Frame component for rendering DepthKit volumetric videos in WebVR.\
-<https://github.com/juniorxsound/DepthKit-A-Frame> ⭐ 37 | 🐛 0 | 📅 2018-07-21
+<https://github.com/juniorxsound/DepthKit-A-Frame> ⭐ 36 | 🐛 0 | 📅 2018-07-21
 
 ***odyssey***\
 Audio Transcription platform for oral stories.\
@@ -160,7 +160,7 @@ How to steal shadertoy\
 <https://github.com/Tiriree/wekinatorClass> ⭐ 0 | 🐛 0 | 🌐 Max | 📅 2018-12-06
 
 ***Avateering with Kinectron - (Research)***\
-<https://github.com/kinectron/kinectron/wiki/Avartron> ⭐ 335 | 🐛 8 | 🌐 JavaScript | 📅 2026-05-22
+<https://github.com/kinectron/kinectron/wiki/Avartron> ⭐ 336 | 🐛 8 | 🌐 JavaScript | 📅 2026-05-22
 
 ***Making music with data***\
 The goal of this workshop is to expose participants of all levels to the ability of utilizing web APIs and online datasets to build data-driven experiences for creative purposes.\
@@ -211,4 +211,4 @@ Webpack, Typescript, threejs, reactjs\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
