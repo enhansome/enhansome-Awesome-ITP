@@ -160,7 +160,7 @@ How to steal shadertoy\
 <https://github.com/Tiriree/wekinatorClass> ⭐ 0 | 🐛 0 | 🌐 Max | 📅 2018-12-06
 
 ***Avateering with Kinectron - (Research)***\
-<https://github.com/kinectron/kinectron/wiki/Avartron> ⭐ 336 | 🐛 8 | 🌐 JavaScript | 📅 2026-05-22
+<https://github.com/kinectron/kinectron/wiki/Avartron> ⭐ 337 | 🐛 8 | 🌐 JavaScript | 📅 2026-05-22
 
 ***Making music with data***\
 The goal of this workshop is to expose participants of all levels to the ability of utilizing web APIs and online datasets to build data-driven experiences for creative purposes.\
@@ -211,4 +211,4 @@ Webpack, Typescript, threejs, reactjs\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
