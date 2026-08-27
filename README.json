@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-27T10:31:49.498Z",
-    "original_repository": "koji/Awesome-ITP",
-    "original_repository_id": 131194584,
+    "last_updated": "2026-08-27T11:23:46.051Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 131194584,
+      "language": null,
+      "last_commit": "2020-06-04T20:12:52Z",
+      "owner": "koji",
+      "repo": "Awesome-ITP",
+      "stars": 64
+    },
     "original_repository_sha": "be3f8d9fda45ff654b721780104203c59c7b4f45",
     "enhanced_repository": "enhansome/enhansome-Awesome-ITP",
     "enhanced_repository_description": null,
