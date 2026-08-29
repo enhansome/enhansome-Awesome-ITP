@@ -1,15 +1,23 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T12:14:17.009Z",
+    "last_updated": "2026-08-29T05:02:09.235Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome things from ITPers",
+      "homepage": null,
       "id": 131194584,
       "language": null,
+      "license": null,
       "last_commit": "2020-06-04T20:12:52Z",
+      "open_issues": 0,
       "owner": "koji",
       "repo": "Awesome-ITP",
-      "stars": 64
+      "stars": 64,
+      "topics": [
+        "awesome-list",
+        "itp"
+      ]
     },
     "original_repository_sha": "be3f8d9fda45ff654b721780104203c59c7b4f45",
     "enhanced_repository": "enhansome/enhansome-Awesome-ITP",
