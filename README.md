@@ -100,7 +100,7 @@ OSCAR is a tool to create beautiful graphic user interaces (GUIs) to send OSC me
 
 ***AudioOwl***\
 AudioOwl is using librosa and RNN models to run fast analysis of music files 🎸.\
-<https://github.com/dodiku/AudioOwl> ⭐ 298 | 🐛 12 | 🌐 Python | 📅 2022-06-20
+<https://github.com/dodiku/AudioOwl> ⭐ 297 | 🐛 12 | 🌐 Python | 📅 2022-06-20
 
 ***VidPy***\
 A Python video editor and compositor based on the MLT Multimedia Framework.\
@@ -211,4 +211,4 @@ Webpack, Typescript, threejs, reactjs\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
