@@ -94,7 +94,7 @@ Serial Port API and Server for p5.js\
 
 ***OSCAR***\
 OSCAR is a tool to create beautiful graphic user interaces (GUIs) to send OSC messages and control interactive installations (Resolume arena, Touch Designer, Ableton, Processing, PD, UNITY, Unreal, etc). Let's create beautiful, responsive and touchable interfaces.\
-<https://github.com/trafalmejo/OSCAR> ⭐ 189 | 🐛 34 | 🌐 JavaScript | 📅 2023-03-04
+<https://github.com/trafalmejo/OSCAR> ⭐ 189 | 🐛 34 | 🌐 JavaScript | 📅 2026-09-05
 
 ## Libraries
 
@@ -211,4 +211,4 @@ Webpack, Typescript, threejs, reactjs\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
