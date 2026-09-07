@@ -172,7 +172,7 @@ A weekly workshop series at ITP to teach machine learning with a focus on deep l
 
 ***Programmable Air***\
 A hardware kit to experiment with inflatable and vacuum based soft robotics.\
-<https://github.com/tinkrmind/programmable-air> ⭐ 63 | 🐛 0 | 🌐 C | 📅 2018-12-11\
+<https://github.com/tinkrmind/programmable-air> ⭐ 64 | 🐛 0 | 🌐 C | 📅 2018-12-11\
 <https://github.com/programmable-air>
 
 ***workshop\_threevr***\
@@ -211,4 +211,4 @@ Webpack, Typescript, threejs, reactjs\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
