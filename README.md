@@ -135,7 +135,7 @@ python module for protesting\
 
 ***Threaded Depth Cleaner***\
 Threaded depth-map cleaning and inpainting using OpenCV.\
-<https://github.com/juniorxsound/ThreadedDepthCleaner> ⭐ 141 | 🐛 1 | 🌐 C++ | 📅 2019-06-19
+<https://github.com/juniorxsound/ThreadedDepthCleaner> ⭐ 142 | 🐛 1 | 🌐 C++ | 📅 2019-06-19
 
 ## Docs and workshops
 
@@ -211,4 +211,4 @@ Webpack, Typescript, threejs, reactjs\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
