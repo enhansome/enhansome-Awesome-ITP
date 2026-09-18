@@ -78,7 +78,7 @@ Software MIDI manipulation of hardware MIDI instruments\
 
 ***Dockspacer***\
 A Mac OS X command line utility that creates spacers in the Dock.\
-<https://github.com/code-warrior/dockspacer> ⭐ 1 | 🐛 0 | 🌐 C | 📅 2024-01-18
+<https://github.com/code-warrior/dockspacer> ⭐ 2 | 🐛 0 | 🌐 C | 📅 2024-01-18
 
 ***Screenshot Shadow***\
 A Mac OS X command line tool that allows users to enable/disable box shadows around screenshots.\
@@ -135,7 +135,7 @@ python module for protesting\
 
 ***Threaded Depth Cleaner***\
 Threaded depth-map cleaning and inpainting using OpenCV.\
-<https://github.com/juniorxsound/ThreadedDepthCleaner> ⭐ 142 | 🐛 1 | 🌐 C++ | 📅 2019-06-19
+<https://github.com/juniorxsound/ThreadedDepthCleaner> ⭐ 143 | 🐛 1 | 🌐 C++ | 📅 2019-06-19
 
 ## Docs and workshops
 
@@ -211,4 +211,4 @@ Webpack, Typescript, threejs, reactjs\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
