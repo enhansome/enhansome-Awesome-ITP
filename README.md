@@ -94,7 +94,7 @@ Serial Port API and Server for p5.js\
 
 ***OSCAR***\
 OSCAR is a tool to create beautiful graphic user interaces (GUIs) to send OSC messages and control interactive installations (Resolume arena, Touch Designer, Ableton, Processing, PD, UNITY, Unreal, etc). Let's create beautiful, responsive and touchable interfaces.\
-<https://github.com/trafalmejo/OSCAR> ⭐ 191 | 🐛 35 | 🌐 JavaScript | 📅 2026-10-12
+<https://github.com/trafalmejo/OSCAR> ⭐ 191 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-14
 
 ## Libraries
 
@@ -124,7 +124,7 @@ Javascript interface and API for working with X-Y pen plotters and/or vinyl cutt
 
 ***MixingBear***\
 Automatic beat-mixing of music files in Python, using AudioOwl 🎚\
-<https://github.com/dodiku/MixingBear> ⭐ 130 | 🐛 4 | 🌐 Python | 📅 2018-04-26
+<https://github.com/dodiku/MixingBear> ⭐ 131 | 🐛 4 | 🌐 Python | 📅 2018-04-26
 
 ***protestpy***\
 python module for protesting\
@@ -211,4 +211,4 @@ Webpack, Typescript, threejs, reactjs\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
