@@ -94,7 +94,7 @@ Serial Port API and Server for p5.js\
 
 ***OSCAR***\
 OSCAR is a tool to create beautiful graphic user interaces (GUIs) to send OSC messages and control interactive installations (Resolume arena, Touch Designer, Ableton, Processing, PD, UNITY, Unreal, etc). Let's create beautiful, responsive and touchable interfaces.\
-<https://github.com/trafalmejo/OSCAR> ⭐ 191 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-14
+<https://github.com/trafalmejo/OSCAR> ⭐ 192 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-14
 
 ## Libraries
 
@@ -160,7 +160,7 @@ How to steal shadertoy\
 <https://github.com/Tiriree/wekinatorClass> ⭐ 0 | 🐛 0 | 🌐 Max | 📅 2018-12-06
 
 ***Avateering with Kinectron - (Research)***\
-<https://github.com/kinectron/kinectron/wiki/Avartron> ⭐ 337 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-06
+<https://github.com/kinectron/kinectron/wiki/Avartron> ⭐ 338 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-06
 
 ***Making music with data***\
 The goal of this workshop is to expose participants of all levels to the ability of utilizing web APIs and online datasets to build data-driven experiences for creative purposes.\
@@ -211,4 +211,4 @@ Webpack, Typescript, threejs, reactjs\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
