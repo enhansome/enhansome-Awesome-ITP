@@ -94,7 +94,7 @@ Serial Port API and Server for p5.js\
 
 ***OSCAR***\
 OSCAR is a tool to create beautiful graphic user interaces (GUIs) to send OSC messages and control interactive installations (Resolume arena, Touch Designer, Ableton, Processing, PD, UNITY, Unreal, etc). Let's create beautiful, responsive and touchable interfaces.\
-<https://github.com/trafalmejo/OSCAR> ⭐ 192 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-14
+<https://github.com/trafalmejo/OSCAR> ⭐ 192 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-24
 
 ## Libraries
 
@@ -135,7 +135,7 @@ python module for protesting\
 
 ***Threaded Depth Cleaner***\
 Threaded depth-map cleaning and inpainting using OpenCV.\
-<https://github.com/juniorxsound/ThreadedDepthCleaner> ⭐ 143 | 🐛 1 | 🌐 C++ | 📅 2019-06-19
+<https://github.com/juniorxsound/ThreadedDepthCleaner> ⭐ 142 | 🐛 1 | 🌐 C++ | 📅 2019-06-19
 
 ## Docs and workshops
 
@@ -195,7 +195,7 @@ For Raspberry Pi setup workshop\
 
 ***THREE-Multiplayer***
 A boilerplate server and client setup for Three.js multiplayer using Socket.io.\
-<https://github.com/juniorxsound/THREE-Multiplayer> ⭐ 226 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-03
+<https://github.com/juniorxsound/THREE-Multiplayer> ⭐ 227 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-03
 
 ***oF-shader-boilerplate***\
 A boilerplate for openFrameworks with fragment shader.\
@@ -211,4 +211,4 @@ Webpack, Typescript, threejs, reactjs\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
