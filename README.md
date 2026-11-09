@@ -90,11 +90,11 @@ A Mac OS X command line utility that allows users to choose PNG, PDF, PSD, JPG, 
 
 ***p5.serialport***\
 Serial Port API and Server for p5.js\
-<https://github.com/vanevery/p5.serialport> ⭐ 163 | 🐛 26 | 🌐 JavaScript | 📅 2024-06-18
+<https://github.com/vanevery/p5.serialport> ⭐ 164 | 🐛 26 | 🌐 JavaScript | 📅 2024-06-18
 
 ***OSCAR***\
 OSCAR is a tool to create beautiful graphic user interaces (GUIs) to send OSC messages and control interactive installations (Resolume arena, Touch Designer, Ableton, Processing, PD, UNITY, Unreal, etc). Let's create beautiful, responsive and touchable interfaces.\
-<https://github.com/trafalmejo/OSCAR> ⭐ 193 | 🐛 52 | 🌐 JavaScript | 📅 2026-11-05
+<https://github.com/trafalmejo/OSCAR> ⭐ 193 | 🐛 54 | 🌐 JavaScript | 📅 2026-11-09
 
 ## Libraries
 
@@ -189,7 +189,7 @@ For Raspberry Pi setup workshop\
 
 ***p5js-shaders***
 <https://glitch.com/@kcconch/p-5-js-shaders>\
-<https://github.com/ITP-xStory/p5js-shaders> ⭐ 95 | 🐛 1 | 📅 2023-11-11
+<https://github.com/ITP-xStory/p5js-shaders> ⭐ 96 | 🐛 1 | 📅 2023-11-11
 
 ## Boilerplates
 
@@ -211,4 +211,4 @@ Webpack, Typescript, threejs, reactjs\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
