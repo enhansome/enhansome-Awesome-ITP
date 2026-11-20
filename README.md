@@ -46,7 +46,7 @@ Videogrep is a command line tool that searches through dialog in video files (us
 
 ***scenescoop***\
 Scenescoop is a tool to get similar semantic scenes from a pair of videos. Basically, you input a video and get a scene that has a similar meaning in another video. You can run it as a python script or as a web app.\
-<https://github.com/cvalenzuela/scenescoop> ⭐ 139 | 🐛 5 | 🌐 Python | 📅 2021-02-25
+<https://github.com/cvalenzuela/scenescoop> ⭐ 138 | 🐛 5 | 🌐 Python | 📅 2021-02-25
 
 ***docode***\
 A tool that automatically generates media files, such as videos, GIFs, and screenshots, from your JavaScript sketch file.\
@@ -211,4 +211,4 @@ Webpack, Typescript, threejs, reactjs\
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
